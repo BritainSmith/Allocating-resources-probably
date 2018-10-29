@@ -1,0 +1,26 @@
+nav.navbar,
+.navbar-default {
+  background-color: #2892d7 !important;
+}
+
+.navbar-default {
+  background-image: none;
+  border: none;
+  border-radius: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: white;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white;
+}
