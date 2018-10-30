@@ -8,7 +8,9 @@ export default class About extends Component {
       <div>
         <Image src="assets/dog-people.jpg" className="header-image" />
         <Grid>
-          <Col xs={12} sm={8} smOffset={2} />
+          <Col xs={12} sm={8} smOffset={2}>
+            <Image src="" />
+          </Col>
         </Grid>
       </div>
     );
